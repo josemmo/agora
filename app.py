@@ -1,4 +1,4 @@
-def do_something(name: str):
+def greeting(name: str):
     print(f'Hello, {name}!')
 
-do_something('World')
+greeting('World')
