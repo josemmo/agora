@@ -1,2 +1,4 @@
 def do_something():
-    pass
+    print('Hello!')
+
+do_something()
