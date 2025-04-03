@@ -1,4 +1,4 @@
 def greeting(name: str):
-    print(f'Bonjour, {name}!')
+    print(f'Hallo, {name}!')
 
-greeting('World')
+greeting('Welt')
